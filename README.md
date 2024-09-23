@@ -13,15 +13,15 @@ I frequently write about developments in Generative AI and Machine learning, so 
 
 ## Large Language Models Frameworks & Architecture Design
 
-- https://www.youtube.com/watch?v=W0c7jQezTDw&list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS
-- https://www.youtube.com/watch?v=3H5UC2c0Dyc&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
-- https://www.youtube.com/watch?v=bZQun8Y4L2A&t=925s
-- https://www.youtube.com/watch?v=zjkBMFhNj_g
-- https://www.youtube.com/watch?v=l8pRSuU81PU&t=32s
-- https://www.youtube.com/watch?v=zduSFxRajkE&t=13s
-- https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLXYLzZ3XzIbi4lL43O6fIU_ojuZwBO6vi
-- https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5
-- https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
+- ``Large Language Models: Foundation Models from the ground up`` https://www.youtube.com/watch?v=W0c7jQezTDw&list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS
+- ``Large Language Models: Application through Production`` https://www.youtube.com/watch?v=3H5UC2c0Dyc&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+- ``State of GPT | BRK216HFS`` https://www.youtube.com/watch?v=bZQun8Y4L2A&t=925s
+- ``[1hr Talk] Intro to Large Language Models`` https://www.youtube.com/watch?v=zjkBMFhNj_g
+- ``Let's reproduce GPT-2 (124M)`` https://www.youtube.com/watch?v=l8pRSuU81PU&t=32s
+- ``Let's build the GPT Tokenizer`` https://www.youtube.com/watch?v=zduSFxRajkE&t=13s
+- ``The spelled-out intro to neural networks and backpropagation: building micrograd`` https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLXYLzZ3XzIbi4lL43O6fIU_ojuZwBO6vi
+- ``What Is LangChain? - LangChain + ChatGPT Overview`` ttps://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5
+- ``LangChain for LLM Application Development`` https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
 
 ## Prompt Engineering
 
